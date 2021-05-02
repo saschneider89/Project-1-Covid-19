@@ -1,0 +1,639 @@
+School_name,county,Longitude,Latitude,Total_Enrollment
+Academy of Art University,San Francisco,-122.400578,37.787943,9812.0
+Academy of Chinese Culture and Health Sciences,Alameda,-122.269839,37.805972,133.0
+Avalon School of Cosmetology-Alameda,Alameda,-122.243566,37.764203,47.0
+College of Alameda,Alameda,-122.279303,37.781017,5667.0
+Allan Hancock College,Santa Barbara,-120.421144,34.943716,11894.0
+American Academy of Dramatic Arts-Los Angeles,Los Angeles,-118.343701,34.095378,251.0
+American Baptist Seminary of the West,Alameda,-122.256149,37.865252,39.0
+American Film Institute Conservatory,Los Angeles,-118.310018,34.10767,334.0
+American Beauty College,Los Angeles,-117.936959,34.069367,92.0
+American Career College-Los Angeles,Los Angeles,-118.292481,34.079323,1567.0
+American Conservatory Theater,San Francisco,-122.40475,37.787343,43.0
+American River College,Sacramento,-121.349672,38.65085,31265.0
+Antelope Valley College,Los Angeles,-118.186166,34.676207,13909.0
+Art Center College of Design,Los Angeles,-118.185102,34.169031,2335.0
+Associated Technical College-Los Angeles,Los Angeles,-118.272364,34.056102,335.0
+Associated Technical College-San Diego,San Diego,-117.157988,32.715375,85.0
+Azusa Pacific University,Los Angeles,-117.888375,34.130047,9297.0
+Bakersfield College,Kern,-118.973753,35.40911,26380.0
+Barstow Community College,San Bernardino,-117.023412,34.870285,3078.0
+Bellus Academy-Chula Vista,San Diego,-117.083738,32.614773,239.0
+Bethesda University,Orange,-117.941323,33.842295,397.0
+Biola University,Los Angeles,-118.014374,33.906203,6103.0
+Brownson Technical School,Orange,-117.905774,33.819032,53.0
+Butte College,Butte,-121.644831,39.649782,10100.0
+California Institute of Integral Studies,San Francisco,-122.416102,37.774924,1476.0
+Cabrillo College,Santa Cruz,-121.924797,36.989448,11033.0
+California Baptist University,Riverside,-117.425619,33.929321,11045.0
+California College of the Arts,San Francisco,-122.399451,37.767485,1860.0
+University of California-Hastings College of Law,San Francisco,-122.4157,37.781137,979.0
+California Institute of Technology,Los Angeles,-118.125878,34.137349,2237.0
+California Lutheran University,Ventura,-118.878924,34.224566,4303.0
+California Polytechnic State University-San Luis Obispo,San Luis Obispo,-120.657311,35.299513,21426.0
+Alliant International University-San Diego,San Diego,-117.094398,32.897056,3536.0
+California State University-Bakersfield,Kern,-119.104711,35.350005,11531.0
+California State University-Stanislaus,Stanislaus,-120.852511,37.52577,10974.0
+California State University-San Bernardino,San Bernardino,-117.323801,34.182622,20638.0
+California State Polytechnic University-Pomona,Los Angeles,-117.821476,34.057912,28058.0
+California State University-Chico,Butte,-121.844859,39.729712,17110.0
+California State University-Dominguez Hills,Los Angeles,-118.255917,33.864766,17977.0
+California State University-Fresno,Fresno,-119.744569,36.811154,24298.0
+California State University-Fullerton,Orange,-117.885446,33.881506,40445.0
+California State University-East Bay,Alameda,-122.054135,37.657694,16064.0
+California State University-Long Beach,Los Angeles,-118.11204,33.782818,38674.0
+California State University-Los Angeles,Los Angeles,-118.168965,34.066927,26671.0
+California State University-Northridge,Los Angeles,-118.529319,34.240126,39910.0
+California State University-Sacramento,Sacramento,-121.423549,38.559415,31992.0
+University of California-Berkeley,Alameda,-122.260463,37.871918,43185.0
+University of California-Davis,Yolo,-121.749567,38.539667,38634.0
+University of California-Irvine,Orange,-117.841248,33.648434,36908.0
+University of California-Los Angeles,Los Angeles,-118.443901,34.068892,44371.0
+University of California-Riverside,Riverside,-117.32741,33.97246,25547.0
+University of California-San Diego,San Diego,-117.235866,32.877749,38736.0
+University of California-San Francisco,San Francisco,-122.458489,37.763737,3180.0
+University of California-Santa Barbara,Santa Barbara,-119.846426,34.416297,26314.0
+University of California-Santa Cruz,Santa Cruz,-122.058801,36.995584,19494.0
+Sofia University,Santa Clara,-122.10866,37.430325,1349.0
+California Beauty School,Stanislaus,-120.99689,37.645217,105.0
+California Christian College,Fresno,-119.711123,36.749366,11.0
+California Graduate School of Theology,Orange,-117.936119,33.774619,32.0
+California Hair Design Academy,San Diego,-117.024261,32.765221,128.0
+California Institute of the Arts,Los Angeles,-118.566837,34.39327,1520.0
+California State University Maritime Academy,Solano,-122.231551,38.069061,941.0
+California Western School of Law,San Diego,-117.162416,32.722192,793.0
+Canada College,San Mateo,-122.265398,37.44877,5799.0
+College of the Canyons,Los Angeles,-118.568698,34.403993,19089.0
+Career Academy of Beauty,Orange,-118.031697,33.781018,159.0
+Casa Loma College-Van Nuys,Los Angeles,-118.457781,34.192829,162.0
+CET-San Diego,San Diego,-117.105328,32.711302,170.0
+CET-San Jose,Santa Clara,-121.88698,37.322723,229.0
+CET-El Centro,Imperial,-115.549079,32.790908,217.0
+CET-Colton,San Bernardino,-117.353488,34.077381,166.0
+CET-Watsonville,Santa Cruz,-121.767991,36.931833,116.0
+CET-Salinas,Monterey,-121.65236,36.707333,144.0
+Cerritos College,Los Angeles,-118.097337,33.886874,22287.0
+Cerro Coso Community College,Kern,-117.66767,35.567525,5607.0
+Chabot College,Alameda,-122.105636,37.642458,13522.0
+Chaffey College,San Bernardino,-117.573932,34.147663,22731.0
+Chapman University,Orange,-117.852518,33.79302,9850.0
+Charles R Drew University of Medicine and Science,Los Angeles,-118.242791,33.925658,748.0
+Concordia University-Irvine,Orange,-117.812305,33.653665,3911.0
+San Diego Christian College,San Diego,-116.978112,32.842404,551.0
+Church Divinity School of the Pacific,Alameda,-122.261122,37.876184,75.0
+Citrus College,Los Angeles,-117.885266,34.135487,13130.0
+Citrus Heights Beauty College,Sacramento,-121.289529,38.712951,123.0
+City College of San Francisco,San Francisco,-122.451155,37.725953,24441.0
+Claremont Graduate University,Los Angeles,-117.713703,34.103585,1950.0
+Claremont McKenna College,Los Angeles,-117.711188,34.102154,1346.0
+Milan Institute-Visalia,Tulare,-119.312151,36.27164,395.0
+Clovis Adult Education,Fresno,-119.690369,36.834459,671.0
+Coastline Community College,Orange,-117.929143,33.715634,10822.0
+Cogswell College,Santa Clara,-121.94087,37.414049,552.0
+Coba Academy,Orange,-117.943108,33.841141,81.0
+Western University of Health Sciences,Los Angeles,-117.747732,34.058092,3792.0
+Columbia College,Tuolumne,-120.388385,38.030367,2616.0
+Columbia College Hollywood,Los Angeles,-118.538793,34.17972,870.0
+Compton College,Los Angeles,-118.209463,33.878226,5760.0
+Contra Costa College,Contra Costa,-122.337377,37.969381,7127.0
+Cosumnes River College,Sacramento,-121.423108,38.45295,14398.0
+Crafton Hills College,San Bernardino,-117.101173,34.039178,6749.0
+Cuesta College,San Luis Obispo,-120.742235,35.331276,11281.0
+Cuyamaca College,San Diego,-116.943507,32.744954,8697.0
+Cypress College,Orange,-118.025143,33.82833,15679.0
+De Anza College,Santa Clara,-122.045558,37.320788,18669.0
+International School of Beauty Inc,Riverside,-116.403928,33.729555,143.0
+Dell'Arte International School of Physical Theatre,Humboldt,-123.988808,40.880924,31.0
+College of the Desert,Riverside,-116.388271,33.732108,11919.0
+Design Institute of San Diego,San Diego,-117.167374,32.880926,121.0
+Diablo Valley College,Contra Costa,-122.073142,37.968516,19871.0
+Dominican University of California,Marin,-122.512051,37.981279,1878.0
+Dominican School of Philosophy & Theology,Alameda,-122.264612,37.881099,67.0
+East Los Angeles College,Los Angeles,-118.148785,34.040531,36885.0
+El Camino Community College District,Los Angeles,-118.329913,33.885229,24223.0
+Emperor's College of Traditional Oriental Medicine,Los Angeles,-118.485119,34.030438,237.0
+Empire College,Sonoma,-122.729337,38.468052,371.0
+Evergreen Valley College,Santa Clara,-121.76561,37.30167,9774.0
+FIDM-Fashion Institute of Design & Merchandising-Los Angeles,Los Angeles,-118.25993,34.044209,2227.0
+FIDM-Fashion Institute of Design & Merchandising-San Francisco,San Francisco,-122.406651,37.786353,188.0
+Feather River Community College District,Plumas,-120.973067,39.953101,2058.0
+Federico Beauty Institute,Sacramento,-121.497761,38.64883,326.0
+Fielding Graduate University,Santa Barbara,-119.717161,34.42941,981.0
+Five Branches University,Santa Cruz,-121.998245,36.964348,353.0
+Redondo Beach Beauty College,Los Angeles,-118.372137,33.873098,76.0
+Foothill College,Santa Clara,-122.127964,37.361655,15123.0
+Franciscan School of Theology,San Diego,-117.320066,33.232416,54.0
+Fredrick and Charles Beauty College,Humboldt,-124.164986,40.798885,55.0
+Fresno City College,Fresno,-119.796096,36.768164,24806.0
+Fresno Pacific University,Fresno,-119.735199,36.726831,4300.0
+Fuller Theological Seminary,Los Angeles,-118.140261,34.14778,2265.0
+Fullerton College,Orange,-117.918255,33.875514,22613.0
+Gavilan College,Santa Clara,-121.569842,36.972627,5573.0
+Gemological Institute of America-Carlsbad,San Diego,-117.318765,33.131313,167.0
+Glendale Community College,Los Angeles,-118.227666,34.16745,13584.0
+Glendale Career College,Los Angeles,-118.254719,34.149771,611.0
+Golden Gate University-San Francisco,San Francisco,-122.398969,37.789374,2432.0
+Golden West College,Orange,-118.002568,33.732531,12025.0
+Graduate Theological Union,Alameda,-122.261847,37.87554,197.0
+Grossmont College,San Diego,-117.006277,32.815246,16958.0
+Salon Success Academy-Riverside,Riverside,-117.391024,33.943149,92.0
+Hartnell College,Monterey,-121.666054,36.675091,13024.0
+Harvey Mudd College,Los Angeles,-117.709837,34.106515,904.0
+Hilltop Beauty School,San Mateo,-122.461467,37.705502,111.0
+Holy Names University,Alameda,-122.187804,37.802276,966.0
+Pacifica Graduate Institute,Santa Barbara,-119.580414,34.420881,829.0
+Humboldt State University,Humboldt,-124.078293,40.877481,7180.0
+Humphreys University-Stockton and Modesto Campuses,San Joaquin,-121.316918,38.011489,486.0
+Imperial Valley College,Imperial,-115.503563,32.827209,8511.0
+Institute for Business and Technology,Santa Clara,-121.969541,37.368642,542.0
+Interior Designers Institute,Orange,-117.865722,33.641393,139.0
+Toni & Guy Hairdressing Academy-Santa Monica,Los Angeles,-118.494755,34.017276,191.0
+Irvine Valley College,Orange,-117.777539,33.675381,12812.0
+Bellus Academy-El Cajon,San Diego,-116.94627,32.794072,200.0
+John F. Kennedy University,Contra Costa,-122.054761,37.956616,1125.0
+American Jewish University,Los Angeles,-118.471706,34.128153,108.0
+Reedley College,Fresno,-119.458555,36.605428,11296.0
+Life Pacific University,Los Angeles,-117.829388,34.098705,552.0
+University of La Verne,Los Angeles,-117.773262,34.100855,7396.0
+Laguna College of Art and Design,Orange,-117.772564,33.561448,834.0
+Lake Tahoe Community College,El Dorado,-119.972574,38.926797,2577.0
+Lancaster Beauty School,Los Angeles,-118.147547,34.694914,134.0
+Laney College,Alameda,-122.26283,37.797257,10424.0
+Lassen Community College,Lassen,-120.633271,40.432053,2526.0
+Life Chiropractic College West,Alameda,-122.117619,37.638099,600.0
+Lincoln Law School of Sacramento,Sacramento,-121.464021,38.57216,207.0
+Lincoln University,Alameda,-122.269745,37.804788,475.0
+Southern California Seminary,San Diego,-116.905461,32.799614,176.0
+La Sierra University,Riverside,-117.500054,33.910704,2159.0
+Loma Linda University,San Bernardino,-117.260605,34.051241,4462.0
+Long Beach City College,Los Angeles,-118.135633,33.833593,24127.0
+Southern California University of Health Sciences,Los Angeles,-117.983401,33.922966,1386.0
+Los Angeles Harbor College,Los Angeles,-118.28186,33.784201,8694.0
+Los Angeles Pierce College,Los Angeles,-118.575071,34.183949,18765.0
+Los Angeles Southwest College,Los Angeles,-118.304674,33.929586,6409.0
+Los Angeles Trade Technical College,Los Angeles,-118.269447,34.031907,13094.0
+Los Angeles Valley College,Los Angeles,-118.421734,34.175165,16982.0
+The Master's University and Seminary,Los Angeles,-118.518193,34.381755,2006.0
+Los Angeles City College,Los Angeles,-118.292169,34.087301,14937.0
+Los Angeles County College of Nursing and Allied Health,Los Angeles,-118.211852,34.062647,199.0
+Los Angeles Mission College,Los Angeles,-118.4195,34.314668,10128.0
+Los Medanos College,Contra Costa,-121.860967,38.006474,9435.0
+Loyola Marymount University,Los Angeles,-118.415744,33.97085,9822.0
+Lu Ross Academy,Ventura,-119.293952,34.278034,215.0
+Lyle's College of Beauty,Kern,-119.02387,35.386539,88.0
+Lyle's College of  Beauty,Fresno,-119.774167,36.836265,83.0
+Lytles Redwood Empire Beauty College Inc,Sonoma,-122.75777,38.508385,115.0
+MTI College,Sacramento,-121.342568,38.661377,756.0
+College of Marin,Marin,-122.549149,37.954897,5182.0
+Marymount California University,Los Angeles,-118.333371,33.734887,647.0
+Mendocino College,Mendocino,-123.228809,39.188989,3960.0
+Menlo College,San Mateo,-122.190797,37.453475,894.0
+Merced College,Merced,-120.476464,37.3353,11173.0
+Merritt College,Alameda,-122.167335,37.789088,6857.0
+Mills College,Alameda,-122.182294,37.781425,1122.0
+MiraCosta College,San Diego,-117.302606,33.190483,12992.0
+Mission College,Santa Clara,-121.980783,37.391935,6995.0
+Modern Beauty Academy,Ventura,-119.181423,34.195384,50.0
+Modesto Junior College,Stanislaus,-121.009792,37.651056,18068.0
+Moler Barber College,Alameda,-122.265352,37.827075,279.0
+Middlebury Institute of International Studies at Monterey,Monterey,-121.897325,36.599736,688.0
+Monterey Peninsula College,Monterey,-121.884931,36.590558,7920.0
+Moorpark College,Ventura,-118.834528,34.301146,14275.0
+Mt San Antonio College,Los Angeles,-117.846629,34.047764,29799.0
+Mount Saint Mary's University,Los Angeles,-118.482879,34.085315,2855.0
+Mt San Jacinto Community College District,Riverside,-116.971169,33.806748,15597.0
+Musicians Institute,Los Angeles,-118.337582,34.101265,1022.0
+Napa Valley College,Napa,-122.274381,38.274081,5292.0
+National Holistic Institute,Alameda,-122.287672,37.841898,1237.0
+National University,San Diego,-117.243026,32.909894,16670.0
+Naval Postgraduate School,Monterey,-121.874248,36.597159,2841.0
+Newschool of Architecture and Design,San Diego,-117.153305,32.71331,497.0
+Newberry School of Beauty,Los Angeles,-118.499693,34.256683,113.0
+North Adrian's College of Beauty Inc,Stanislaus,-120.992753,37.677778,236.0
+North-West College-Pomona,Los Angeles,-117.751227,34.062043,187.0
+North-West College-West Covina,Los Angeles,-117.949583,34.072071,700.0
+North-West College-Van Nuys,Los Angeles,-118.450184,34.189497,198.0
+Northwestern Polytechnic University,Alameda,-121.925953,37.477991,30.0
+Notre Dame de Namur University,San Mateo,-122.284794,37.517111,1363.0
+Occidental College,Los Angeles,-118.210908,34.127124,1985.0
+Ohlone College,Alameda,-121.916339,37.52773,8900.0
+Orange Coast College,Orange,-117.909086,33.66927,20042.0
+Otis College of Art and Design,Los Angeles,-118.416615,33.956607,1183.0
+Oxnard College,Ventura,-119.157604,34.166104,7464.0
+Hope International University,Orange,-117.88573,33.87616,1130.0
+Concorde Career College-San Diego,San Diego,-117.102845,32.702814,730.0
+Palo Alto University,Santa Clara,-122.187437,37.382216,1075.0
+Pacific Oaks College,Los Angeles,-118.151323,34.153382,1163.0
+Pacific School of Religion,Alameda,-122.263155,37.87669,98.0
+Pacific States University,Los Angeles,-118.298408,34.061315,28.0
+Pacific Union College,Napa,-122.440308,38.570585,909.0
+University of the Pacific,San Joaquin,-121.312301,37.981424,6447.0
+Palo Verde College,Riverside,-114.651698,33.661538,4540.0
+Palomar College,San Diego,-117.183978,33.149483,23874.0
+Pasadena City College,Los Angeles,-118.118196,34.144552,26971.0
+Pepperdine University,Los Angeles,-118.707077,34.037786,8824.0
+Pitzer College,Los Angeles,-117.706675,34.104107,1086.0
+Platt College-San Diego,San Diego,-117.063483,32.76373,115.0
+Point Loma Nazarene University,San Diego,-117.250265,32.718391,4567.0
+Pomona College,Los Angeles,-117.714556,34.099027,1637.0
+Porterville College,Tulare,-119.014368,36.049256,4350.0
+Professional Institute of Beauty,Los Angeles,-118.039028,34.075561,111.0
+Santa Ana College,Orange,-117.887558,33.759309,27052.0
+Pardee RAND Graduate School,Los Angeles,-118.490655,34.00973,108.0
+Shasta School of Cosmetology,Shasta,-122.387248,40.597114,37.0
+University of Redlands,San Bernardino,-117.163218,34.064218,4832.0
+College of the Redwoods,Humboldt,-124.195293,40.698427,4665.0
+Salon Success Academy-Upland,San Bernardino,-117.631783,34.108247,164.0
+Salon Success Academy-Corona,Riverside,-117.535638,33.847649,116.0
+Rio Hondo College,Los Angeles,-118.033506,34.019821,19358.0
+Riverside City College,Riverside,-117.384323,33.970918,21118.0
+Rosemead Beauty School,Los Angeles,-118.082793,34.080756,344.0
+Dongguk University-Los Angeles,Los Angeles,-118.289523,34.06597,131.0
+Sacramento City College,Sacramento,-121.491139,38.541096,20829.0
+Saddleback College,Orange,-117.665584,33.553346,19709.0
+Samuel Merritt University,Alameda,-122.266331,37.82029,2029.0
+San Diego City College,San Diego,-117.152733,32.717403,14056.0
+San Diego Mesa College,San Diego,-117.169165,32.803825,20712.0
+San Diego Miramar College,San Diego,-117.120261,32.909757,14127.0
+San Diego State University,San Diego,-117.071228,32.77525,35544.0
+University of San Diego,San Diego,-117.192073,32.770816,9181.0
+San Francisco Art Institute,San Francisco,-122.417,37.803575,332.0
+San Francisco Conservatory of Music,San Francisco,-122.420292,37.775543,452.0
+San Francisco State University,San Francisco,-122.476799,37.721224,29032.0
+San Francisco Theological Seminary,Marin,-122.565407,37.969952,99.0
+University of San Francisco,San Francisco,-122.450477,37.776618,10636.0
+San Joaquin College of Law,Fresno,-119.697657,36.82448,171.0
+San Joaquin Delta College,San Joaquin,-121.318266,37.995129,18533.0
+San Joaquin Valley College-Visalia,Tulare,-119.384981,36.328049,6621.0
+William Jessup University,Placer,-121.292312,38.819728,1743.0
+San Jose City College,Santa Clara,-121.926185,37.315827,8760.0
+San Jose State University,Santa Clara,-121.880621,37.336569,36085.0
+College of San Mateo,San Mateo,-122.334801,37.535698,8163.0
+Santa Barbara Business College-Bakersfield,Kern,-119.061264,35.359544,309.0
+Santa Barbara Business College-Santa Maria,Santa Barbara,-120.433296,34.937806,89.0
+Santa Barbara City College,Santa Barbara,-119.698045,34.406788,14133.0
+Santa Clara University,Santa Clara,-121.93784,37.348362,8669.0
+Santa Monica College,Los Angeles,-118.469765,34.017022,27497.0
+Santa Rosa Junior College,Sonoma,-122.718974,38.45709,19101.0
+Saybrook University,Los Angeles,-118.152155,34.153103,688.0
+Scripps College,Los Angeles,-117.711294,34.104147,1109.0
+College of the Sequoias,Tulare,-119.315182,36.323877,12815.0
+Shasta Bible College and Graduate School,Shasta,-122.314419,40.566034,41.0
+Shasta College,Shasta,-122.317982,40.625731,9307.0
+Sierra College,Placer,-121.211688,38.790773,18226.0
+Sierra College of Beauty,Merced,-120.495874,37.306975,138.0
+Trinity Law School,Orange,-117.852059,33.766071,326.0
+Simpson University,Shasta,-122.332981,40.61334,854.0
+College of the Siskiyous,Siskiyou,-122.38909,41.413005,1761.0
+Charles A Jones Career and Education Center,Sacramento,-121.440796,38.516233,243.0
+Skyline College,San Mateo,-122.467335,37.63042,8803.0
+San Bernardino Valley College,San Bernardino,-117.313248,34.086353,14872.0
+Saint Mary's College of California,Contra Costa,-122.109031,37.840731,3692.0
+Solano Community College,Solano,-122.122368,38.235881,9330.0
+Sonoma State University,Sonoma,-122.677066,38.340274,8887.0
+South Baylo University,Orange,-117.958727,33.848216,338.0
+South Coast College,Orange,-117.874031,33.78818,226.0
+Vanguard University of Southern California,Orange,-117.900911,33.662686,2175.0
+Concorde Career College-Garden Grove,Orange,-117.938395,33.774741,589.0
+Southwestern College,San Diego,-116.996803,32.640281,19231.0
+St John's Seminary,Ventura,-119.001867,34.243921,104.0
+Starr King School for the Ministry,Alameda,-122.261778,37.876939,88.0
+Marshall B Ketchum University,Orange,-117.886229,33.889348,739.0
+Southern California Institute of Architecture,Los Angeles,-118.232799,34.044215,497.0
+University of Southern California,Los Angeles,-118.284169,34.021281,48321.0
+Southwestern Law School,Los Angeles,-118.288375,34.061558,819.0
+Taft College,Kern,-119.459751,35.149343,5968.0
+Claremont School of Theology,Los Angeles,-117.715256,34.107602,331.0
+Thomas Aquinas College,Ventura,-119.087141,34.429009,439.0
+Epic Bible College,Sacramento,-121.362642,38.645152,145.0
+United Education Institute-Huntington Park Campus,Los Angeles,-118.226206,33.986057,921.0
+Concorde Career College-San Bernardino,San Bernardino,-117.283995,34.066823,572.0
+Concorde Career College-North Hollywood,Los Angeles,-118.403627,34.186407,601.0
+Ventura College,Ventura,-119.230604,34.277393,12696.0
+The Santa Barbara and Ventura Colleges of Law at Ventura,Ventura,-119.232988,34.25747,187.0
+Victor Valley College,San Bernardino,-117.261456,34.472231,13126.0
+Berkeley City College,Alameda,-122.269877,37.869769,5644.0
+Waynes College of Beauty,Monterey,-121.652672,36.700635,42.0
+West Hills College-Coalinga,Fresno,-120.356747,36.147891,4198.0
+West Los Angeles College,Los Angeles,-118.386664,34.004512,13048.0
+West Valley College,Santa Clara,-122.008324,37.26398,7619.0
+Carrington College-Sacramento,Sacramento,-121.371331,38.556151,3261.0
+Westminster Theological Seminary in California,San Diego,-117.046371,33.121447,133.0
+Westmont College,Santa Barbara,-119.662517,34.450151,1317.0
+Whittier College,Los Angeles,-118.032299,33.978773,1841.0
+Woodbury University,Los Angeles,-118.341147,34.208011,1225.0
+The Wright Institute,Alameda,-122.253168,37.868221,487.0
+Thomas Jefferson School of Law,San Diego,-117.157862,32.717595,219.0
+Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,Los Angeles,-118.346613,34.085465,138.0
+Yuba College,Yuba,-121.53964,39.126536,5626.0
+Ashford University,San Diego,-117.141961,32.8273,32620.0
+Stanford University,Santa Clara,-122.167359,37.429434,17249.0
+Antioch University-Los Angeles,Los Angeles,-118.384458,33.988533,792.0
+Antioch University-Santa Barbara,Santa Barbara,-119.6958,34.419203,325.0
+Platt College-Los Angeles,Los Angeles,-118.150013,34.081723,727.0
+Bethel Seminary-San Diego,San Diego,-117.06605,32.765387,47.0
+Brandman University,Orange,-117.769012,33.656401,10231.0
+Adrian's College of Beauty Turlock,Stanislaus,-120.863784,37.491448,90.0
+California Career School,Orange,-117.906219,33.819547,82.0
+Palomar Institute of Cosmetology,San Diego,-117.188351,33.13663,141.0
+InterCoast Colleges-Santa Ana,Orange,-117.85367,33.70497,226.0
+Las Positas College,Alameda,-121.80058,37.710873,8706.0
+California State University-San Marcos,San Diego,-117.159013,33.130569,16053.0
+University of St. Augustine for Health Sciences,San Diego,-117.165964,33.151849,4353.0
+Hypnosis Motivation Institute,Los Angeles,-118.538719,34.170219,61.0
+Thanh Le College School of Cosmetology,Orange,-117.908306,33.789713,32.0
+Downey Adult School,Los Angeles,-118.115727,33.91965,613.0
+CRU Institute of Cosmetology and Barbering,Orange,-118.030758,33.790145,65.0
+Modern Technology School,Orange,-117.918837,33.723142,95.0
+National Career Education,Sacramento,-121.273917,38.679835,440.0
+North-West College-Glendale,Los Angeles,-118.255462,34.148981,154.0
+Fremont College,Los Angeles,-118.097019,33.868382,191.0
+Pomona Unified School District Adult and Career Education,Los Angeles,-117.772606,34.054864,138.0
+Universal College of Beauty Inc-Los Angeles 2,Los Angeles,-118.332236,34.004498,27.0
+Bellus Academy-Poway,San Diego,-117.042531,32.957184,372.0
+Capstone College,Los Angeles,-118.149478,34.165741,59.0
+Central Coast College,Monterey,-121.655643,36.669595,236.0
+Pacific College of Oriental Medicine-San Diego,San Diego,-117.16073,32.778391,1036.0
+CET-Coachella,Riverside,-116.185875,33.692248,79.0
+CET-Oxnard,Ventura,-119.18145,34.194208,107.0
+CET-Santa Maria,Santa Barbara,-120.441978,34.943576,135.0
+Mt. Diablo Adult Education-Mt. Diablo USD,Contra Costa,-122.026805,37.968852,129.0
+Royale College of Beauty and Barbering,Riverside,-117.164541,33.515476,49.0
+Hacienda La Puente Adult Education,Los Angeles,-117.979559,34.044112,812.0
+United Education Institute-Ontario,San Bernardino,-117.547733,34.0694,634.0
+United Education Institute-Encino,Los Angeles,-118.50213,34.170205,657.0
+Acupuncture and Integrative Medicine College-Berkeley,Alameda,-122.267636,37.862754,93.0
+Alhambra Beauty College,Los Angeles,-118.129041,34.093916,129.0
+UEI College-Gardena,Los Angeles,-118.287234,33.893016,953.0
+Asian-American International Beauty College,Orange,-117.991643,33.759524,501.0
+Copper Mountain Community College,San Bernardino,-116.213939,34.140464,1533.0
+Diversified Vocational College,Los Angeles,-118.272364,34.056102,580.0
+UEI College-Fresno,Fresno,-119.789002,36.782858,927.0
+Santiago Canyon College,Orange,-117.766762,33.795449,11911.0
+Southern California Institute of Technology,Orange,-117.950661,33.8381,607.0
+Soka University of America,Orange,-117.735344,33.554546,419.0
+Summit College,San Bernardino,-117.304456,34.056313,1085.0
+Advance Beauty College,Orange,-117.952637,33.759905,507.0
+Los Angeles Pacific College,Los Angeles,-118.295037,34.062282,81.0
+World Mission University,Los Angeles,-118.289484,34.064918,421.0
+Yo San University of Traditional Chinese Medicine,Los Angeles,-118.442756,33.993287,142.0
+California State University-Monterey Bay,Monterey,-121.796178,36.652397,7650.0
+Marian Health Careers Center-Los Angeles Campus,Los Angeles,-118.295073,34.062096,210.0
+Spartan College of Aeronautics & Technology,Los Angeles,-118.377744,33.956018,415.0
+East San Gabriel Valley Regional Occupational Program,Los Angeles,-117.937116,34.076805,108.0
+Premiere Career College,Los Angeles,-117.990894,34.079755,329.0
+Estes Institute of Cosmetology Arts and Science,Tulare,-119.289234,36.330422,53.0
+Baldwin Park Adult & Community Education,Los Angeles,-117.959486,34.09673,305.0
+Ventura Adult and Continuing Education,Ventura,-119.219561,34.256061,97.0
+Central California School of Continuing Education,San Luis Obispo,-120.64847,35.262091,188.0
+Colleen O'Haras Beauty Academy,Orange,-117.868136,33.748189,14.0
+Pacific College,Orange,-117.873382,33.680043,255.0
+American College of Healthcare and Technology,Riverside,-117.493507,33.901581,83.0
+John Wesley International Barber and Beauty College,Los Angeles,-118.192659,33.775812,66.0
+Institute of Technology,Fresno,-119.723249,36.83679,1310.0
+Platt College-Ontario,San Bernardino,-117.571744,34.068595,572.0
+American University of Health Sciences,Los Angeles,-118.171366,33.796849,384.0
+Career Networks Institute,Orange,-117.8478,33.721058,385.0
+California Aeronautical University,Kern,-119.049264,35.434905,230.0
+Pima Medical Institute-Chula Vista,San Diego,-117.093388,32.619858,841.0
+Los Angeles Film School,Los Angeles,-118.328298,34.098284,5151.0
+Professional Golfers Career College,Riverside,-117.163739,33.528952,107.0
+Universal Technical Institute of California Inc,San Bernardino,-117.576366,34.082782,1386.0
+CBD College,Los Angeles,-118.306221,34.06231,788.0
+My Le's Beauty College,Sacramento,-121.452325,38.494851,254.0
+PCI College,Los Angeles,-118.100169,33.87475,114.0
+Keck Graduate Institute,Los Angeles,-117.72351,34.093329,580.0
+Miami Ad School-San Francisco,San Francisco,-122.401198,37.795155,36.0
+American Career College-Anaheim,Orange,-117.975599,33.849912,1135.0
+West Coast Ultrasound Institute,Los Angeles,-118.302836,34.061409,814.0
+Irell & Manella Graduate School of Biological Sciences at City of Hope,Los Angeles,-117.972791,34.129048,91.0
+Design's School of Cosmetology,San Luis Obispo,-120.672526,35.648459,27.0
+California State University-Channel Islands,Ventura,-119.04356,34.162949,7525.0
+Paul Mitchell the School-Costa Mesa,Orange,-117.927468,33.695103,407.0
+Milan Institute-Palm Desert,Riverside,-116.353268,33.783343,139.0
+InterCoast Colleges-Riverside,Riverside,-117.344752,33.993598,159.0
+University of Antelope Valley,Los Angeles,-118.134968,34.683587,814.0
+California Healing Arts College,Los Angeles,-118.265919,33.844718,52.0
+International Technological University,Santa Clara,-121.930991,37.38881,532.0
+NTMA Training Centers of Southern California,Los Angeles,-118.074231,33.94302,146.0
+West Coast University-Los Angeles,Los Angeles,-118.39941,34.187134,2215.0
+InterCoast Colleges-West Covina,Los Angeles,-117.89763,34.073416,151.0
+Northcentral University,San Diego,-117.243889,32.910805,11223.0
+Folsom Lake College,Sacramento,-121.127486,38.661372,8945.0
+ATI College-Norwalk,Los Angeles,-118.003835,33.948521,23.0
+Advanced College,Los Angeles,-118.15794,33.915383,25.0
+Advanced Training Associates,San Diego,-116.981781,32.819023,82.0
+CES College,Los Angeles,-118.303297,34.180401,126.0
+Stellar Career College,Stanislaus,-121.071015,37.701963,32.0
+University of California-Merced,Merced,-120.424944,37.366237,8847.0
+North-West College-Riverside,Riverside,-117.485881,33.9145,560.0
+Cambridge Junior College-Yuba City,Sutter,-121.652227,39.13994,112.0
+Career Care Institute,Los Angeles,-118.15638,34.678236,640.0
+Community Christian College,San Bernardino,-117.217101,34.068664,203.0
+Los Angeles College of Music,Los Angeles,-118.150113,34.139293,288.0
+Stanbridge University,Orange,-117.857636,33.678879,1364.0
+United States University,San Diego,-117.154904,32.7769,1243.0
+SAE Expression College,Alameda,-122.2954,37.847631,583.0
+United Education Institute-Chula Vista,San Diego,-117.065355,32.608605,823.0
+United Education Institute-West Covina,Los Angeles,-117.90946,34.075984,678.0
+California Career College,Los Angeles,-118.601794,34.197566,117.0
+Palladium Technical Academy Inc,Los Angeles,-118.04358,34.091838,33.0
+Palace Beauty College,Los Angeles,-118.309491,34.044739,239.0
+National Polytechnic College,Los Angeles,-118.143809,33.860528,192.0
+American Career College-Ontario,San Bernardino,-117.583814,34.068204,1326.0
+Asher College,Sacramento,-121.415767,38.587784,646.0
+American Institute of Massage Therapy,Orange,-117.848291,33.71488,36.0
+University of East-West Medicine,Santa Clara,-121.997011,37.3864,176.0
+Blake Austin College,Solano,-121.945606,38.378548,337.0
+SUM Bible College and Theological Seminary,El Dorado,-121.055684,38.620464,626.0
+Universal Technical Institute of Northern California Inc,Sacramento,-121.529503,38.64575,1289.0
+West Hills College-Lemoore,Kings,-119.823866,36.292431,4359.0
+Milan Institute-Fresno,Fresno,-119.795645,36.822404,437.0
+Beaumont Adult School,Riverside,-116.964728,33.951365,88.0
+Make-up Designory,Los Angeles,-118.308336,34.180238,262.0
+Gnomon,Los Angeles,-118.329083,34.089501,399.0
+Coachella Valley Beauty College,Riverside,-116.278254,33.708193,58.0
+Valley College of Medical Careers,Los Angeles,-118.606731,34.221839,94.0
+University of the West,Los Angeles,-118.082964,34.045985,284.0
+Paul Mitchell the School-San Diego,San Diego,-117.160838,32.719128,253.0
+Paul Mitchell the School-Sherman Oaks,Los Angeles,-118.467369,34.155811,267.0
+Healthcare Career College,Los Angeles,-118.149645,33.889719,333.0
+Trident University International,Orange,-118.032177,33.80595,7298.0
+Coastline Beauty College,Orange,-117.921471,33.728821,172.0
+Milan Institute of Cosmetology-Fairfield,Solano,-122.0455,38.248448,60.0
+Milan Institute of Cosmetology-Visalia,Tulare,-119.309922,36.301861,33.0
+Mayfield College,Riverside,-116.458827,33.790822,468.0
+Academy of Esthetics and Cosmetology,Los Angeles,-118.444228,34.285043,39.0
+Borner's Barber College,Los Angeles,-118.309291,33.95588,31.0
+Paul Mitchell the School-Pasadena,Los Angeles,-118.133403,34.144765,237.0
+San Francisco Institute of Esthetics & Cosmetology Inc,San Francisco,-122.407083,37.777043,174.0
+Laurus College,San Luis Obispo,-120.669519,35.2682,878.0
+Healing Hands School of Holistic Health,San Diego,-117.086211,33.129652,337.0
+Career Development Institute Inc,Los Angeles,-118.386067,34.045817,127.0
+The Chicago School of Professional Psychology at Irvine,Orange,-117.838089,33.650763,454.0
+Woodland Community College,Yolo,-121.73533,38.660392,3774.0
+The Chicago School of Professional Psychology at Los Angeles,Los Angeles,-118.257251,34.047958,2999.0
+California Nurses Educational Institute,Riverside,-116.490142,33.816672,217.0
+Paul Mitchell the School-Sacramento,Sacramento,-121.41594,38.594752,274.0
+Providence Christian College,Los Angeles,-118.141062,34.149327,151.0
+National Career College,Los Angeles,-118.446211,34.22245,317.0
+Salon Success Academy-Fontana,San Bernardino,-117.437904,34.099087,33.0
+Salon Success Academy-Redlands,San Bernardino,-117.218933,34.062342,134.0
+Milan Institute-Bakersfield,Kern,-119.023088,35.385513,317.0
+Homestead Schools,Los Angeles,-118.35009,33.809096,182.0
+InterCoast Colleges-Rancho Cordova,Sacramento,-121.334243,38.561309,117.0
+San Diego Culinary Institute,San Diego,-117.024063,32.763846,33.0
+Beyond 21st Century Beauty Academy,Los Angeles,-118.041477,33.916443,86.0
+Academy for Jewish Religion-California,Los Angeles,-118.438495,34.070281,60.0
+Angeles College,Los Angeles,-118.29903,34.061223,267.0
+Angeles Institute,Los Angeles,-118.080741,33.875772,84.0
+Paul Mitchell the School-Temecula,Riverside,-117.146674,33.507316,288.0
+West Coast University-Orange County,Orange,-117.911811,33.81104,3976.0
+West Coast University-Ontario,San Bernardino,-117.590035,34.066591,2058.0
+Paul Mitchell the School-Modesto,Stanislaus,-120.993745,37.68301,298.0
+Cosmo Beauty Academy,Sacramento,-121.401027,38.62883,118.0
+Paul Mitchell the School-Fresno,Fresno,-119.782437,36.809778,311.0
+Unitek College,Alameda,-121.961761,37.50904,2147.0
+Gurnick Academy of Medical Arts,San Mateo,-122.307618,37.547377,2042.0
+Paul Mitchell the School-East Bay,Contra Costa,-122.061226,37.94492,128.0
+Touro University Worldwide,Orange,-118.057754,33.808683,1940.0
+Touro University California,Solano,-122.263949,38.085479,1378.0
+Moreno Valley College,Riverside,-117.20271,33.88744,10635.0
+Norco College,Riverside,-117.570212,33.917387,11715.0
+Milan Institute of Cosmetology-La Quinta,Riverside,-116.288341,33.711954,134.0
+New York Film Academy,Los Angeles,-118.335567,34.152076,1892.0
+International College of Cosmetology,Alameda,-122.220803,37.774887,223.0
+Galaxy Medical College,Los Angeles,-118.396209,34.186976,51.0
+American Medical Sciences Center,Los Angeles,-118.256991,34.147117,64.0
+Santa Ana Beauty Academy,Orange,-117.835205,33.766402,24.0
+Elite Cosmetology School,San Bernardino,-116.435531,34.121188,113.0
+Bergin University of Canine Studies,Sonoma,-122.666954,38.289155,59.0
+Cinta Aveda Institute,San Francisco,-122.404307,37.790935,268.0
+Southern California Health Institute,Los Angeles,-118.526822,34.200827,301.0
+Academy for Salon Professionals,Los Angeles,-118.558215,34.23396,82.0
+International College of Beauty Arts & Sciences,Los Angeles,-118.273227,34.148057,49.0
+John Paul the Great Catholic University,San Diego,-117.082401,33.12085,278.0
+CET-Soledad,Monterey,-121.316599,36.41456,129.0
+United Education Institute-UEI College San Marcos,San Diego,-117.118524,33.131561,489.0
+United Education Institute-Anaheim,Orange,-117.922969,33.851393,587.0
+Aveda Institute-Los Angeles,Los Angeles,-118.446566,34.062797,168.0
+UEI College-Riverside,Riverside,-117.351755,33.975392,829.0
+Los Angeles Pacific University,Los Angeles,-117.827484,34.110723,1953.0
+The Santa Barbara and Ventura Colleges of Law at Santa Barbara,Santa Barbara,-119.70516,34.424542,81.0
+Marian Health Careers Center-Van Nuys Campus,Los Angeles,-118.465561,34.177483,128.0
+Beverly Hills Design Institute,Los Angeles,-118.375621,34.06463,16.0
+Annenberg School of Nursing,Los Angeles,-118.553851,34.200825,24.0
+Flair Beauty College,Los Angeles,-118.550015,34.414463,62.0
+Medical Allied Career Center,Los Angeles,-118.062402,33.91871,70.0
+Diamond Beauty College,Los Angeles,-118.046711,34.062971,47.0
+Unitek College,San Mateo,-122.455603,37.65642,216.0
+California College San Diego,San Diego,-117.160658,33.138303,250.0
+Unitek College,Alameda,-122.116059,37.661039,153.0
+Advance Beauty Techs Academy,Riverside,-117.517655,33.884074,122.0
+Brand College,Los Angeles,-118.265551,34.15799,24.0
+Hinton Barber and Beauty College,Solano,-122.245384,38.109629,56.0
+Advanced Career Institute,Tulare,-119.38533,36.344669,637.0
+Platt College-Riverside,Riverside,-117.298365,33.932923,473.0
+United Education Institute-UEI College Stockton,San Joaquin,-121.308461,37.99756,679.0
+California Miramar University,San Diego,-117.11851,32.77942,199.0
+Grace Mission University,Orange,-117.958208,33.867663,247.0
+Santa Ana Beauty College,Orange,-117.895913,33.759423,101.0
+Riverside County Office of Education-School of Career Education,Riverside,-117.294699,33.91733,291.0
+Xavier College School of Nursing,San Joaquin,-121.293267,37.966315,81.0
+Lawrence & Company College of Cosmetology,Kings,-119.637371,36.33339,48.0
+California Career Institute,Orange,-117.960413,33.786223,147.0
+J D Academy of Salon and Spa,Contra Costa,-121.995828,37.818164,128.0
+InterCoast Colleges-Fairfield,Solano,-122.147995,38.212134,136.0
+Milan Institute-Merced,Merced,-120.481067,37.322518,319.0
+UEI College-Bakersfield,Kern,-119.049925,35.381617,990.0
+DeVry University-California,San Bernardino,-117.5876,34.068481,2079.0
+American College of Healthcare and Technology,Los Angeles,-118.224906,33.978807,75.0
+Learnet Academy Inc,Los Angeles,-118.293165,34.063934,85.0
+The Fab School,San Bernardino,-117.555168,34.079866,148.0
+Integrity College of Health,Los Angeles,-118.131722,34.171252,30.0
+California Technical Academy,Riverside,-117.339245,34.002717,715.0
+California International Business University,San Diego,-117.168019,32.718063,34.0
+Bay Area Medical Academy,San Francisco,-122.406318,37.790775,101.0
+Lawrence & Company College of Cosmetology,Fresno,-119.611752,36.570318,41.0
+High Desert Medical College,Monterey,-121.655732,36.669633,704.0
+The Salon Professional Academy-San Jose,Santa Clara,-121.989475,37.292025,174.0
+Tri-Community Adult Education,Los Angeles,-117.887096,34.104391,262.0
+North-West College-Anaheim,Orange,-117.959766,33.839313,204.0
+North-West College-Long Beach,Los Angeles,-118.14854,33.801894,299.0
+University of Phoenix-California,San Bernardino,-117.58377,34.065748,4740.0
+University of West Los Angeles,Los Angeles,-118.36957,33.947341,204.0
+California College San Diego,San Diego,-117.166966,32.835221,536.0
+High Tech High Graduate School of Education,San Diego,-117.217661,32.732001,59.0
+Coachella Valley Beauty College-Hemet,Riverside,-117.010783,33.745675,84.0
+Associated Barber College of San Diego,San Diego,-117.159908,32.719318,65.0
+ABCO Technology,Los Angeles,-118.369774,33.932121,126.0
+International Sports Sciences Association,Santa Barbara,-119.486417,34.38768,379.0
+California Intercontinental University,Orange,-117.850961,33.696413,412.0
+Universal Healthcare Careers College,Los Angeles,-118.274771,34.0499,156.0
+Theatre of Arts,Los Angeles,-118.338144,34.0984,28.0
+Westchester College of Nursing & Allied Health,Los Angeles,-118.396511,33.95487,6.0
+ZMS,Los Angeles,-118.209424,34.047305,125.0
+San Francisco Film School,San Francisco,-122.401124,37.791643,38.0
+Presidio Graduate School,San Francisco,-122.475292,37.80026,120.0
+California Jazz Conservatory,Alameda,-122.268878,37.871235,47.0
+California Barber and Beauty College,San Diego,-117.0814,32.757282,62.0
+Aviation Institute of Maintenance,Alameda,-121.92135,37.468594,278.0
+Hussian College-Studio School Los Angeles,Los Angeles,-118.26069,34.054877,333.0
+Universal Technical Institute-Southern California,Los Angeles,-118.145393,33.826017,1075.0
+California Institute of Advanced Management,Los Angeles,-118.15055,34.082467,151.0
+Butte County Regional Occupational Program,Butte,-121.804024,39.715283,64.0
+Alhambra Medical University,Los Angeles,-118.148684,34.080181,169.0
+Abraham Lincoln University,Los Angeles,-118.256726,34.146294,225.0
+DeHart Technical School,Stanislaus,-120.997781,37.71339,79.0
+Claremont Lincoln University,Los Angeles,-117.717974,34.094143,254.0
+Hoss Lee Academy,Placer,-121.289487,38.721897,75.0
+California Health Sciences University,Fresno,-119.701977,36.832466,260.0
+University of Saint Katherine,San Diego,-117.196552,33.151283,235.0
+Teachers College of San Joaquin,San Joaquin,-121.229911,37.90797,848.0
+University of the People,Los Angeles,-118.13353,34.141906,5043.0
+Clovis Community College,Fresno,-119.731261,36.88686,8454.0
+Institute of Buddhist Studies,Alameda,-122.266105,37.866732,23.0
+Chamberlain University-California,Sacramento,-121.278258,38.596193,255.0
+Spartan College of Aeronautics and Technology,Riverside,-117.408335,33.990127,190.0
+Milan Institute-Bakersfield West,Kern,-119.038111,35.388152,69.0
+West Coast University-Center for Graduate Studies,Los Angeles,-118.29131,34.081505,580.0
+Presbyterian Theological Seminary in America,Los Angeles,-118.047065,33.88856,174.0
+Southern States University,San Diego,-117.201297,32.767544,405.0
+America Evangelical University,Los Angeles,-118.308661,34.041239,108.0
+Los Angeles Academy of Figurative Art,Los Angeles,-118.5021,34.208209,6.0
+Westcliff University,Orange,-117.835761,33.697112,2608.0
+Sacramento Ultrasound Institute,Sacramento,-121.383597,38.604405,75.0
+Regan Career Institute,Los Angeles,-118.030152,34.070176,46.0
+Baldy View Regional Occupational Program,San Bernardino,-117.636712,34.046457,31.0
+California Institute of Arts & Technology,San Diego,-117.134199,32.770776,372.0
+My Beauty & Barber College,Sacramento,-121.431533,38.473648,105.0
+Platt College-Anaheim,Orange,-117.878211,33.809417,459.0
+The Chicago School of Professional Psychology at San Diego,San Diego,-117.167054,32.718575,101.0
+ABC Adult School,Los Angeles,-118.070114,33.878179,77.0
+Blush School of Makeup,San Francisco,-122.399413,37.794885,41.0
+California Institute of Medical Science,Fresno,-119.694271,36.810031,25.0
+San Bernardino Beauty College,San Bernardino,-117.285521,34.110518,75.0
+ICOHS College,San Diego,-117.16145,32.723881,101.0
+Urban Barber College,Contra Costa,-122.03909,37.975087,150.0
+Meridian University,Sonoma,-122.640029,38.230878,113.0
+Princess Institute of Beauty,Fresno,-119.431745,36.603678,47.0
+Independent Training & Apprenticeship Program,Sacramento,-121.327728,38.572171,21.0
+Victory Career College,Los Angeles,-118.291723,33.854769,123.0
+Contra Costa Medical Career College,Contra Costa,-121.801607,37.976815,701.0
+Reiss-Davis Graduate Center,Los Angeles,-118.41001,34.030844,44.0
+Escondido Adult School,San Diego,-117.088454,33.131225,109.0
+Poway Adult School,San Diego,-117.035819,32.978817,90.0
+Vista Adult School,San Diego,-117.240253,33.187334,252.0
+Pima Medical Institute-San Marcos,San Diego,-117.160199,33.136906,421.0
+California College of Barbering and Cosmetology,San Joaquin,-121.293756,38.000656,213.0
+Salon Success Academy-West Covina,Los Angeles,-117.933801,34.070568,82.0
+Institute of Culinary Education,Los Angeles,-118.139351,34.144829,114.0
+Medical Career College of Northern California,Placer,-121.293121,38.723329,14.0
+American Fitness and Nutrition Academy,Los Angeles,-118.131854,34.1397,17.0
+San Diego Global Knowledge University,San Diego,-117.154966,32.708222,80.0
+Young Americans College of the Performing Arts,Riverside,-117.542501,33.859246,143.0
+MIXED Institute of Cosmetology & Barber,Sacramento,-121.43577,38.495699,75.0
+UEI College-Sacramento,Sacramento,-121.454197,38.494532,613.0
+Paul Mitchell the School-San Jose,Santa Clara,-121.891967,37.332192,142.0
+KC Beauty Academy,Los Angeles,-118.235894,34.048458,20.0
+Glendale Career College-Brightwood Teachout,San Diego,-117.136429,32.822045,162.0
